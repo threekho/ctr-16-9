@@ -400,7 +400,7 @@ body {
 .ui-1920 #gameContainer {
     position: relative;
     margin: 40px auto 0;
-    width: 1920px;
+    width: 100vw;
     height: 1369px;
     padding: 0
 }
@@ -865,7 +865,7 @@ body {
 .ui-1920 #levelMenu {
     position: absolute;
     top: 0;
-    width: 1920px;
+    width: 100vw;
     height: 836px;
     background-color: rgba(0, 0, 0, .6);
     display: none;
@@ -1044,7 +1044,7 @@ body {
     position: absolute;
     top: 638px;
     height: 88px;
-    width: 1920px
+    width: 100vw
 }
 
 .ui-1920 #finalScore img {
@@ -1375,7 +1375,7 @@ body {
 }
 
 .ui-1920 #gameFooterContainer {
-    width: 1920px
+    width: 100vw
 }
 
 .ui-1920 #miniOptionsMenu {
@@ -1610,5 +1610,5 @@ body {
 }
 
 .ui-1920 #loaderWindow {
-    height: 1080px
+    height: 100vh
 }
