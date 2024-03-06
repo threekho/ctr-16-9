@@ -1534,7 +1534,7 @@ body {
 .ui-1920 #resetHoldYes {
     position: absolute;
     bottom: 38px;
-    width: 1088px;
+    width: 100vw;
     text-align: center
 }
 
